@@ -4,7 +4,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+Publisher;Clean+%26+Reusable+Code;Always+Learning!">
 </h1>
----
 
 ## 🏆 About Me
 - 🌱 **I’m currently learning:** React, Vue.js, TypeScript, Next.js
@@ -26,7 +25,10 @@
 ### 🛠 Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)   
+![SVN](https://img.shields.io/badge/-SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)  
+  
 
 ---
 
