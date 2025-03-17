@@ -1,14 +1,13 @@
-<!-- 헤더 -->
-<h1 align="center">🚀 Welcome to KHM's GitHub! 🚀</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+Publisher;Passionate+about+Clean+Code+%26+UX" alt="Typing SVG">
-</p>
-
+<!-- 배경 이미지 헤더 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=200&section=header&text=Welcome%20to%20KHM's%20GitHub!&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=fadeIn" style="width: 100%; margin: 0 auto;" />
+<!-- 3D 텍스트 -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+Publisher;Clean+%26+Reusable+Code;Always+Learning!">
+</h1>
 ---
 
 ## 🏆 About Me
-- 🌱 **I’m currently learning:** GSAP animations & Firebase  
+- 🌱 **I’m currently learning:** React, Vue.js, TypeScript, Next.js
 - 💡 **I enjoy:** Creating reusable components & ensuring web accessibility  
 - 🎯 **Goals:** Building clean, maintainable code and improving user experience  
 - 📫 **How to reach me:** peachflake@naver.com
